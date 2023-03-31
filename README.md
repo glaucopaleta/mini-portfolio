@@ -1,4 +1,4 @@
-# mini-portfolio<h1 align="center">:file_cabinet: Projeto Mini Portfolio</h1>
+<h1 align="center">:file_cabinet: Projeto Mini Portfolio</h1>
 <p align="center">Desenvolvido no DevQuest (Dev em Dobro).</p>
 <br/>
 
@@ -12,6 +12,5 @@
 * JavaScript;
 
 ## :rocket: Mini Portfolio
-```
+
 Você pode conferir meu resultado **[aqui](https://glaucopaleta.github.io/mini-portfolio/)** 🚀
-```
